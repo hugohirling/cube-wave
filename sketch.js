@@ -1,3 +1,7 @@
+//Author: Hugo Hirling
+//URL: hugohirling.com
+//Version: 11.03.2022
+
 function setup() {
   createCanvas(800, 800, WEBGL);
 }
